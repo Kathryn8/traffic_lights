@@ -28,6 +28,6 @@ const bonusText = document.createElement('p');
 
 bonusText.innerText = "Huzzah!"
 bonusText.style.fontSize = '35px';
-bonusText.style.fontFamily = 'Verdana';
+bonusText.style.fontFamily = 'sans-serif';
 bonusText.style.color = 'mediumBlue';
-bonusText.style.textAlign = 'center';
+bonusText.style.padding = '10px';
